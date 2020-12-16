@@ -1,0 +1,19 @@
+{
+    "name": "sokaina/introduccion-php-frameworks",
+    "description": "proyecto basico",
+    "authors": [
+        {
+            "name": "KrlosAren",
+            "email": "krlosaren@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "App\\": "app/"
+    },
+    "files": [
+        "app/helpers.php"
+    ]
+    }
+}
